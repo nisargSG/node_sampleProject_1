@@ -1,0 +1,16 @@
+[2024-07-16 11:22:11+05:30] [SUCCESS] Server Started At Port 4000
+[2024-07-16 11:22:11+05:30] [SUCCESS] Connected With Database Server...
+[2024-07-16 11:22:13+05:30] [INFO] Incoming Reqeust : GET --> /
+[2024-07-16 11:22:13+05:30] [INFO] Unauthorized Reqeust : GET --> / --> No Token Found 
+[2024-07-16 11:22:13+05:30] [INFO] Incoming Reqeust : GET --> /favicon.ico
+[2024-07-16 11:22:13+05:30] [INFO] Unauthorized Reqeust : GET --> /favicon.ico --> No Token Found 
+[2024-07-16 11:22:26+05:30] [INFO] Incoming Reqeust : GET --> /dashboard
+[2024-07-16 11:22:26+05:30] [INFO] Unauthorized Reqeust : GET --> /dashboard --> No Token Found 
+[2024-07-16 11:22:26+05:30] [INFO] Incoming Reqeust : GET --> /login
+[2024-07-16 11:22:26+05:30] [INFO] Unauthorized Reqeust : GET --> /login --> No Token Found 
+[2024-07-16 11:22:26+05:30] [INFO] Incoming Reqeust : GET --> /js/login.js
+[2024-07-16 11:22:32+05:30] [INFO] Incoming Reqeust : POST --> /api/auth
+[2024-07-16 11:22:32+05:30] [INFO] Incoming Reqeust : GET --> /dashboard
+[2024-07-16 11:22:32+05:30] [INFO] Authorized Reqeust : GET --> /dashboard --> undefined 
+[2024-07-16 11:28:19+05:30] [INFO] Incoming Reqeust : GET --> /product
+[2024-07-16 11:28:19+05:30] [INFO] Authorized Reqeust : GET --> /product --> undefined 
